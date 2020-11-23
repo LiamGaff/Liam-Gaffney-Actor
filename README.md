@@ -1,6 +1,6 @@
 # My Actor Webpage
 This will be my own personal Actor's Webpage that I can use to showcase my work and keep
-peopple up to date with my career so far.
+people up to date with my career so far.
 
 # UX
 ## User Stories

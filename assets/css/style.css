@@ -22,22 +22,21 @@ body{
     padding-top:  9px;
 }
 
-.navbar{
-    /* padding: 0; */
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,123,255,.5);
 }
-
-
 
 /*--------------------------------------- Hero Image*/
 
 #hero-image{
-    height: 85vh;
+    height: 80vh;
     width: 100%;
     background: url("../images/Head_Liam_Gaffney.jpg") no-repeat center center;
+    position: absolute;
 }
 
 #hero-outer{
-    height: 85vh;
+    height: 80vh;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -50,8 +49,25 @@ body{
     font-family: "Goldman", sans-serif;
     font-weight: 400;
     color: rgba(0,123,255,.5);
+    text-transform: uppercase;
 }
 
+.sub-heading{
+    text-align: center;
+    padding-top: 10px;
+}
 
-/*--------------------------------------- Media query*/
+/*--------------------------------------- Showreel*/
 
+.showreel-text{
+    font-size: 100%;
+    width: 70%;
+    text-align: center;
+    margin: 10px;
+    padding-right: 15px;
+}
+
+/* .showreel-video{
+    display: block;
+    margin: 0 auto;
+} */
