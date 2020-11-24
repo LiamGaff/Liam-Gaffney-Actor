@@ -5,6 +5,7 @@ body{
     padding: 0;
     font-family: "Roboto+Condensed", sans-serif;
     font-weight: 400;
+    background-color: rgba(0,0,0,0.9)
 }
 
 /*--------------------------------------- Background colours*/
@@ -30,14 +31,14 @@ body{
 
 #hero-image{
     height: 80vh;
-    width: 100%;
+    width: 100vw;
     background: url("../images/Head_Liam_Gaffney.jpg") no-repeat center center;
     position: absolute;
 }
 
 #hero-outer{
     height: 80vh;
-    width: 100%;
+    width: 100vw;
     overflow: hidden;
     position: relative;
 }
@@ -59,15 +60,38 @@ body{
 
 /*--------------------------------------- Showreel*/
 
-.showreel-text{
+.media-text{
     font-size: 100%;
     width: 70%;
     text-align: center;
     margin: 10px;
     padding-right: 15px;
+    color: #fff;
 }
 
 /* .showreel-video{
     display: block;
     margin: 0 auto;
 } */
+
+/*--------------------------------------- Section spacing*/
+
+.content-section{
+    height: 555px;
+}
+
+.content-footer{
+
+}
+
+/*--------------------------------------- Gallery*/
+
+.carousel-item{
+    float: none;
+}
+
+.carousel-img{
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+}

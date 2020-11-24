@@ -17,16 +17,18 @@ As a user I would like:
   
   The webpage was designed using 
   Balsamiq to crate some basic 
-  wireframes
+  wireframes(Link below)
   
-  ([Wireframes Link]())
+  [Wireframes](wireframes.md)
+
 
 **Colours**
 
 
 
 **Typography**
-
+I used the "Goldman" font for all my heading as I felt it really
+mad the the text stand out.
 
 
 **Backgrounds**
@@ -36,7 +38,7 @@ As a user I would like:
 # Features
 ## Exsisting Features
 *
-*
+* 
 *
 
 ## Features Still to Be Implemented
