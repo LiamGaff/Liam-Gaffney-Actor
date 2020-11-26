@@ -5,14 +5,23 @@ body{
     padding: 0;
     font-family: "Roboto+Condensed", sans-serif;
     font-weight: 400;
-    background-color: rgba(0,0,0,0.9)
+    background-color: transparent;
 }
 
 /*--------------------------------------- Background colours*/
 
-
+    
+.bg-colour{
+    background-color: #343a40;
+}
 
 /*--------------------------------------- Header*/
+
+header{
+    background: url("../images/IMG_2.jpeg") no-repeat center center;
+    height: 90vh;
+    width: 100%;
+}
 
 .container-fluid{
     padding: 0;
@@ -26,20 +35,12 @@ body{
 .navbar-light .navbar-nav .nav-link {
     color: rgba(0,123,255,.5);
 }
-
 /*--------------------------------------- Hero Image*/
 
-#hero-image{
-    height: 80vh;
-    width: 100vw;
-    background: url("../images/Head_Liam_Gaffney.jpg") no-repeat center center;
-    position: sticky-top;
-}
-
 #hero-outer{
-    height: 80vh;
-    width: 100vw;
-    overflow: hidden;
+    height: 90vh;
+    width: 100%;
+    overflow: auto;
     position: relative;
 }
 
@@ -61,16 +62,16 @@ body{
 
 /*--------------------------------------- Section spacing*/
 
-br{
-    height: 10px;
-}
-
-.content-section{
+.content-showreel{
     height: 555px;
 }
 
+.content-section{
+    height: 500px
+}
+
 .content-footer{
-    height: 500px;
+    height: 400px;
 }
 
 /*--------------------------------------- Showreel*/
@@ -105,4 +106,14 @@ br{
     height:350px; 
     object-fit: cover;
     overflow: hidden;
+}
+
+/*--------------------------------------- Footer*/
+
+.buttons{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
 }
