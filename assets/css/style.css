@@ -79,7 +79,6 @@ header{
 
 .footer-text{
     font-size: 100%;
-    width: 70%;
     padding-right: 15px;
     color: #fff;
     padding-left: 15px;
@@ -87,42 +86,41 @@ header{
 
    .notice-text{
     font-size: 100%;
-    width: 70%;
-    margin-left: 50px;
-    text-align: right;
+    text-align: center;
+    padding-right: 15px;
     padding-left: 15px;
     color: #fff;
    }
 /*--------------------------------------- Section spacing*/
 
 .content-showreel{
-    height: 555px;
+    height: 70%;
     width: 100%;
     border-bottom: solid 1px #fff;
 }
 
-.content-section{
-    height: 555px;
+/* .content-section{
+    height: 90vh;
     width: 100%;
     border-bottom: solid 1px #fff;
-}
+} */
 
 .content-contact{
-    height: 500px;
+    height: 90%;
     width: 100%;
-    border-bottom: solid 1px #fff;
 }
 
 .content-footer{
-    height: 40px;
+    height: 100%;
     width: 100%;
+    background-color: lightseagreen;
 }
-
 /*--------------------------------------- Showreel*/
 
 .showreel-video{
     padding-left: 20px;
     padding-right: 20px;
+    margin-bottom: 20px;
 }
 
 /*--------------------------------------- About me*/
@@ -144,7 +142,12 @@ header{
     overflow: hidden;
 }
 
-/*--------------------------------------- Footer*/
+/*--------------------------------------- Contact*/
+
+.contact-row{
+    height: 100%;
+    background-color: #343a40;
+}
 
 .footer-border{
     border-right: solid 1px #fff;
@@ -156,20 +159,28 @@ a{
 
 .button-img{
     height: 80px;
-    width: 100px;
+    width: 90px;
     border-radius: 25px;
 }
 
 .buttons{
     margin-bottom: 15px;
     margin-top: 15px;
-    padding-left: 15px;
+   
     padding-right: 15px;
     padding-top: 20px;
 }
+
+/*----------------------------------------- footer*/
 
 .social-links{
 
 }
 
 .social-links 
+
+/*----------------------------------------- Media Queries*/
+
+
+}
+

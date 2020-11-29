@@ -33,17 +33,18 @@ mad the the text stand out.
 
 **Backgrounds**
 
-
+The background for the header is a photo of the actor(me) and was chosen to 
+instantly show off the actor in his working environment.
 
 # Features
 ## Exsisting Features
-*
-* 
-*
+* Header - with the actors name, a nav menu and a photo of the actor.
+* Showreel - a section with a video which showcases the actors work.
+* Gallery - an interactive photo galler in the form of a carousel
+* Links - buttons and links that lead you to the actors other profiles, webpages and social media.
 
 ## Features Still to Be Implemented
-* An external pge is to be added that will contain a blog and 
-videos different scenes and monologues.
+* An external page is to be added that will contain a blog and videos of different scenes and monologues.
 
 # Technologies Used
 ## Languages
@@ -51,7 +52,7 @@ videos different scenes and monologues.
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks and Programs
-* [Bootstraps 4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [Bootstraps 4.5](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 >- Used to get the overall layout of the Webpage.
 
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WSc14tIkeDZUlWDIVOa-Acbyn1s5XvsJJ6CnWplwD7_WPcgk-C4cTgaAsaNEALw_wcB)
@@ -60,7 +61,7 @@ videos different scenes and monologues.
 * [GitHub](https://github.com/)
 >- GitHub was used to push content to the repository.
 
-[TinyPNG](https://tinypng.com/)
+*  [TinyPNG](https://tinypng.com/)
 >- TinyPNG was uses to compress my images and files.
 # Testing
 
@@ -69,7 +70,13 @@ videos different scenes and monologues.
 # Credits
 
 ## Code
+* The interactive structure of the code  https://getbootstrap.com/docs/4.5/layout/overview/
+* Embeded youtube video copied from youtube
+* Photo gallery carousel https://getbootstrap.com/docs/4.5/components/carousel/
+* 
+
 
 ## Media
 
 ## Acknowledgements
+* I would alco like to credit and thank my mentor for all her help in guiding me through my firs milestone project.
