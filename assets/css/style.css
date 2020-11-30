@@ -114,6 +114,7 @@ header{
     height: 100%;
     width: 100%;
     background-color: lightseagreen;
+    border-top: solid 1px #fff;
 }
 /*--------------------------------------- Showreel*/
 
@@ -150,7 +151,8 @@ header{
 }
 
 .footer-border{
-    border-right: solid 1px #fff;
+    border-right: solid 1px #17a2b8f5;
+     border-bottom: solid 1px #17a2b8f5;
 }
 
 a{
@@ -166,18 +168,35 @@ a{
 .buttons{
     margin-bottom: 15px;
     margin-top: 15px;
-   
     padding-right: 15px;
     padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 /*----------------------------------------- footer*/
 
 .social-links{
-
+padding-top: 10px;
 }
 
-.social-links 
+.social-links li a i{
+    width: 32px;
+    height: 32px;
+    padding: 10px;
+    border-radius: 35%;
+    font-size: 13px;
+    color: #ddd;
+    background-color: #357bc5fc;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover{
+    background-color: #343a40;
+}
+
 
 /*----------------------------------------- Media Queries*/
 
