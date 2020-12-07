@@ -10,7 +10,7 @@ As a user I would like:
 * To be able to view some of the actor's work.
 * To be able to easily navigate through the actor's webpage.
 * To read some basic information about the actors training and work history.
-* To have access to contact information for possible collaboration.
+* To have access to the actors contact information for possible collaboration.
 
 ## Design
   **Wire Frames**
@@ -19,22 +19,24 @@ As a user I would like:
   Balsamiq to crate some basic 
   wireframes(Link below)
   
-  [Wireframes](wireframes.md)
+  [Wireframes](../wireframes.md)
 
 
 **Colours**
 
+* I used an aqua blue colour for all my headings as i felt it matched nicely with my hero image.
 
+* The rest of the text was then either a simple shade of white or blue to blend nicely with the rest of the content and dark background.
 
 **Typography**
-I used the "Goldman" font for all my heading as I felt it really
-mad the the text stand out.
 
+* I used the "Goldman" font for all my heading as I felt it really made the the text stand out.
+* I then used "Roboto-Condensed" for the rest of my text and it seemed to pair nicely with the Goldman
 
 **Backgrounds**
 
-The background for the header is a photo of the actor(me) and was chosen to 
-instantly show off the actor in his working environment.
+* The background for the header is a photo of the actor(me) and was chosen to instantly show off the actor in his working environment.
+* The rest of the page was give a darkish grey colour (#343a40). This made the rest of the content stand out to the user.
 
 # Features
 ## Exsisting Features
@@ -73,10 +75,6 @@ instantly show off the actor in his working environment.
 * The interactive structure of the code  https://getbootstrap.com/docs/4.5/layout/overview/
 * Embeded youtube video copied from youtube
 * Photo gallery carousel https://getbootstrap.com/docs/4.5/components/carousel/
-* 
-
-
-## Media
 
 ## Acknowledgements
-* I would alco like to credit and thank my mentor for all her help in guiding me through my firs milestone project.
+* I would alco like to credit and thank my mentor Seun for all her help in guiding me through my firs milestone project.
