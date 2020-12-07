@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Roboto+Condensed:ital,wght@0,300;0,400;1,300;1,400;700&display=swap');
 
 body{
@@ -63,7 +70,6 @@ header{
     font-size: 100%;
     width: 70%;
     text-align: center;
-    /* margin: 10px; */
     padding-right: 15px;
     color: #FFFAF0;
 }
@@ -94,12 +100,6 @@ header{
     width: 100%;
     border-bottom: solid 1px #FFFAF0;
 }
-
-/* .content-section{
-    height: 90vh;
-    width: 100%;
-    border-bottom: solid 1px #FFFAF0;
-} */
 
 .content-contact{
     height: 90%;
@@ -140,16 +140,12 @@ header{
 .carousel-inner > .carusel-item > img{ 
     width:800px;
     height:300px; 
-    object-fit: contain;
+    -o-object-fit: contain; 
+       object-fit: contain;
     overflow: hidden;
 }
 
 /*--------------------------------------- Contact*/
-
-/* .contact-row{
-    height: 100%;
-    background-color: #343a40;
-} */
 
 .footer-border{
     border-right: solid 1px #17a2b8f5;
@@ -188,7 +184,6 @@ padding-top: 10px;
     font-size: 13px;
     color: #ddd;
     background-color: #357bc5fc;
-    -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
     transition: all 0.35s ease-in-out;
@@ -196,11 +191,5 @@ padding-top: 10px;
 
 .social-links li a i:hover{
     background-color: #343a40;
-}
-
-
-/*----------------------------------------- Media Queries*/
-
-
 }
 

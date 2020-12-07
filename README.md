@@ -65,10 +65,22 @@ As a user I would like:
 
 *  [TinyPNG](https://tinypng.com/)
 >- TinyPNG was uses to compress my images and files.
+
+*  [TinyPNG](https://autoprefixer.github.io/)
+>- CSS code was checked using CSS Autoprefixer.
 # Testing
+As the webpage was being built Chrome developer tools were used to ensure that the code was working smoothly. Each section was then again tested every time a new feature or section was added.
 
+
+Post-deployment the webpage was tested across a number of devices to ensure it remained responsive.
 # Deployment
+The site was deployed to GitHub pages. See below for instructions.
 
+* Log on to GitHub repository.
+* Click on settings.
+* Scroll to GitHub pages.
+* CHange your source to Branch - Main.
+* Hit save.
 # Credits
 
 ## Code
