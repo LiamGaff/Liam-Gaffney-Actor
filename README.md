@@ -1,5 +1,5 @@
 # My Actor Webpage
-This will be my own personal Actor's Webpage that I can use to showcase my work and keep
+This will be my own personal Actor's Webpage that has been designed to showcase my work and keep
 people up to date with my career so far.
 
 # UX
@@ -31,7 +31,7 @@ As a user I would like:
 **Typography**
 
 * I used the "Goldman" font for all my heading as I felt it really made the the text stand out.
-* I then used "Roboto-Condensed" for the rest of my text and it seemed to pair nicely with the Goldman
+* I then used "Roboto-Condensed" for the rest of my text as it seemed to pair nicely with the Goldman
 
 **Backgrounds**
 
@@ -54,7 +54,7 @@ As a user I would like:
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks and Programs
-* [Bootstraps 4.5](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [Bootstrap 4.5](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 >- Used to get the overall layout of the Webpage.
 
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WSc14tIkeDZUlWDIVOa-Acbyn1s5XvsJJ6CnWplwD7_WPcgk-C4cTgaAsaNEALw_wcB)
@@ -66,27 +66,42 @@ As a user I would like:
 *  [TinyPNG](https://tinypng.com/)
 >- TinyPNG was uses to compress my images and files.
 
-*  [TinyPNG](https://autoprefixer.github.io/)
->- CSS code was checked using CSS Autoprefixer.
+*  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+>- CSS code was checked using CSS W3C CSS Validator.
 # Testing
 As the webpage was being built Chrome developer tools were used to ensure that the code was working smoothly. Each section was then again tested every time a new feature or section was added.
 
-
 Post-deployment the webpage was tested across a number of devices to ensure it remained responsive.
+
+**Bugs**
+
+Most bugs I encountered were solved through the use of Bootstrap or were simple mistakes that were easily fixd in my CSS.
+
+* Carousel 
+> I originally encountered an issue with carousel that got from Bootstrap, this was mainly to do with it's positioning . This problem was fixed using the flex utility from Bootstrap.
+  Also the photos that were added to the gallery had to be adjusted to fit within the carousel.
+* Gallery Section 
+>After I corrected the carousel position it seemed that a new problem had arose. When viewing the site on a view port bigger than 720px. This problem was fixed by simply adjusting the height of all the sections
+
+*  Nav 
+> I had to return to my nav as it seemed that it would move out of place when i viewed the webpage on a mobile device. Once again this was fixed using the flex utility from Bootstrap.
+(The nav toggler icon currently moves up and down when clicked on. I am still trying to correct this issue.)
+
 # Deployment
 The site was deployed to GitHub pages. See below for instructions.
 
 * Log on to GitHub repository.
 * Click on settings.
 * Scroll to GitHub pages.
-* CHange your source to Branch - Main.
+* CHange your source to Branch - Master.
 * Hit save.
 # Credits
 
 ## Code
-* The interactive structure of the code  https://getbootstrap.com/docs/4.5/layout/overview/
+* The interactive structure and layout of the code  https://getbootstrap.com/docs/4.5/layout/overview/
 * Embeded youtube video copied from youtube
 * Photo gallery carousel https://getbootstrap.com/docs/4.5/components/carousel/
+* Some ideas for the code (such as the social media links) were taken from mini projects done through out the course. 
 
 ## Acknowledgements
-* I would alco like to credit and thank my mentor Seun for all her help in guiding me through my firs milestone project.
+* I would also like to credit and thank my mentor Seun for all her help in guiding me through my firs milestone project.
