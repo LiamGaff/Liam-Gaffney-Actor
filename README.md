@@ -93,7 +93,7 @@ The site was deployed to GitHub pages. See below for instructions.
 * Log on to GitHub repository.
 * Click on settings.
 * Scroll to GitHub pages.
-* CHange your source to Branch - Master.
+* Change your source to Branch - Master.
 * Hit save.
 # Credits
 
