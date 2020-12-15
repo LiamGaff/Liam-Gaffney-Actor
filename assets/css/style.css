@@ -9,11 +9,11 @@ body{
 /*--------------------------------------- Background colours*/
 
 .bg-NameNav{
-    background-color: rgba(0,0,0,0.4)
+    background-color: rgba(0,0,0,0.3)
 }
     
 .bg-colour{
-    background-color: #343a40;
+    background-color: #243c56;
 }
 
 /*--------------------------------------- Header*/
@@ -35,20 +35,21 @@ header{
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #17a2b8f5;
+    color: #56c1c1;;
     font-weight: 600;   
 }
 
 .navbar-light .navbar-toggler{
-    color: #17a2b8f5;
-    border-color: #17a2b8f5;
+    color: #56c1c1;;
+    border-color: #56c1c1;;
 }
 /*--------------------------------------- Text styles*/
 
 .heading {
     font-family: "Goldman", sans-serif;
     font-weight: 400;
-    color: #17a2b8f5;
+    font-size: 35px;
+    color: #56c1c1;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
@@ -59,7 +60,7 @@ header{
 }
 
 .media-text{
-    font-size: 100%;
+    font-size: 17px;
     width: 70%;
     text-align: center;
     padding-right: 15px;
@@ -67,19 +68,19 @@ header{
 }
 
 .footer-headings{
-    color: #17a2b8f5;
+    color: #56c1c1;;
     text-align: center;
 }
 
 .footer-text{
-    font-size: 100%;
+    font-size: 17px;
     padding-right: 15px;
     color: #FFFAF0;
     padding-left: 15px;
 }
 
    .notice-text{
-    font-size: 100%;
+    font-size: 17px;
     text-align: center;
     padding-right: 15px;
     padding-left: 15px;
@@ -88,7 +89,7 @@ header{
 /*--------------------------------------- Section spacing*/
 
 .content-showreel{
-    height: 70%;
+    height: 65%;
     width: 100%;
     border-bottom: solid 1px #FFFAF0;
 }
@@ -140,8 +141,8 @@ header{
 /*--------------------------------------- Contact*/
 
 .footer-border{
-    border-right: solid 1px #17a2b8f5;
-     border-bottom: solid 1px #17a2b8f5;
+    border-right: solid 1px #56c1c1;;
+     border-bottom: solid 1px #56c1c1;;
 }
 
 a{
