@@ -28,7 +28,7 @@ As a user I would like:
 
 **Colours**
 
-* I used an aqua blue colour for all my headings as i felt it matched nicely with my hero image.
+* I used a turquoise (#56c1c1) colour for all my headings as i felt it matched nicely with my hero image.
 
 * The rest of the text was then either a simple shade of white or blue to blend nicely with the rest of the content and dark background.
 
