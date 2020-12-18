@@ -23,7 +23,8 @@ body{
 /*--------------------------------------- Header*/
 
 header{
-    background: url("../images/IMG_2.jpeg") no-repeat center ;
+    background: url("../images/HERO_IMG.jpg") no-repeat center;
+    background-size: cover;
     height: 92vh;
     width: 100%;
     position: relative;
@@ -59,6 +60,7 @@ header{
 }
 
 .sub-heading{
+    margin-top: 20px;
     text-align: center;
     padding-top: 10px;
 }
@@ -95,7 +97,7 @@ header{
 .content-showreel{
     height: 65%;
     width: 100%;
-    border-bottom: solid 1px #FFFAF0;
+    border-bottom: solid 1px #fffaf033;
 }
 
 .content-contact{
@@ -109,6 +111,7 @@ header{
     background-color: lightseagreen;
     border-top: solid 1px #FFFAF0;
 }
+
 /*--------------------------------------- Showreel*/
 
 .showreel-video{

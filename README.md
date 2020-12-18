@@ -15,6 +15,7 @@ As a user I would like:
 * To be able to easily navigate through the actor's webpage.
 * To read some basic information about the actors training and work history.
 * To have access to the actors contact information for possible collaboration.
+* To be able to contact the actor directly through the webpage.
 
 ## Design
   **Wire Frames**
@@ -46,8 +47,9 @@ As a user I would like:
 ## Exsisting Features
 * Header - with the actors name, a nav menu and a photo of the actor.
 * Showreel - a section with a video which showcases the actors work.
-* Gallery - an interactive photo galler in the form of a carousel
+* Gallery - an interactive photo galler in the form of a carousel.
 * Links - buttons and links that lead you to the actors other profiles, webpages and social media.
+* Form - a contact form to contact the actor directly through the webpage.
 
 ## Features Still to Be Implemented
 * An external page is to be added that will contain a blog and videos of different scenes and monologues.
