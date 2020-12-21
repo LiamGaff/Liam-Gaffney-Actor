@@ -107,6 +107,7 @@ The site was deployed to GitHub pages. See below for instructions.
 * The interactive structure and layout of the code  https://getbootstrap.com/docs/4.5/layout/overview/
 * Embeded youtube video copied from youtube
 * Photo gallery carousel https://getbootstrap.com/docs/4.5/components/carousel/
+* Resources such as W3schools and Stackover flow were used to come up with solutions to various problems I encountered
 * Some ideas for the code (such as the social media links) were taken from mini projects done through out the course. 
 
 ## Acknowledgements
