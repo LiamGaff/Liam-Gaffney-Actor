@@ -1,12 +1,24 @@
 # Actor Webpage
-This will be my own personal Actor's Webpage that has been designed to showcase my work and keep
-people up to date with my career so far.
+I am designing this webpage as of my MS1 project for Code Institute's Dimploma in Software Development. This will also be my own personal Actor's Webpage that has been designed to showcase my work and keep
+people up to date with my career so far. I hope to use this webpgae to market and advance my career.
 
 # UX
 
 ## Users
-The users that will visit my webpage are gooing to consist of other actors and casting agents. Because of this I didn't over populate my webpage with content, I kept it simple and only provided the necessary information.
+The users that will visit my webpage are going to consist of other actors and casting agents. Because of this I didn't over populate my webpage with content, I kept it simple and only provided the necessary information.
 
+
+When a casting agent visits a webpage they don't want to waist time so i aim to present them with an easy navigation system and provide them with all the neccessary information to get a good picture of who the actor is.
+
+
+Each section of the webpage conatains content to inform any user of who the actor is and of their previous work. It also provides user's a way of getting in contact with the actor and his agnecy should they want to work with said actor.
+Links to the actors other profiles(e.g spotlight, IMBD...) have also been added through out the webpage to validate the actors work experience.
+
+
+The users will vary in ability and need so taking a simplictic approach to the webpage seemed to be the best course of action. The navigation is simple and makes it easy to find any information the user might be looking for.
+
+
+The colours chosen for the webpage give it a retro and dramtic feel which suits the type of page we're creating. The combined colors also highlight all the content making it all visible and easy to read.
 ## User Stories
 As a user I would like:
 
@@ -45,11 +57,11 @@ As a user I would like:
 
 # Features
 ## Exsisting Features
-* Header - with the actors name, a nav menu and a photo of the actor.
-* Showreel - a section with a video which showcases the actors work.
-* Gallery - an interactive photo galler in the form of a carousel.
-* Links - buttons and links that lead you to the actors other profiles, webpages and social media.
-* Form - a contact form to contact the actor directly through the webpage.
+* **Nav** - The webpage will have a responsive nav in the top right corner that will be linked to all the sections of the page. On small viewports the nav will change to burger icon conating the nav elements.
+* **Showreel** - An iFrame element was used to embed a video which showcases the actors work.
+* **Gallery** - An interactive photo gallery in the form of a carousel was added to the webpage to conveniently display some shots of the actor at work.
+* **Links** - Buttons and links that lead users to the actors other profiles, webpages and social media are dispersed through out the page.
+* **Form** - A contact form to contact the actor directly through the webpage was added to the contact section.
 
 ## Features Still to Be Implemented
 * An external page is to be added that will contain a blog and videos of different scenes and monologues.
@@ -93,6 +105,8 @@ Most bugs I encountered were solved through the use of Bootstrap or were simple 
 > I had to return to my nav as it seemed that it would move out of place when i viewed the webpage on a mobile device. Once again this was fixed using the flex utility from Bootstrap.
 (The nav toggler icon currently moves up and down when clicked on. I am still trying to correct this issue.)
 
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+>W3C 
 # Deployment
 The site was deployed to GitHub pages. See below for instructions.
 
@@ -111,4 +125,4 @@ The site was deployed to GitHub pages. See below for instructions.
 * Some ideas for the code (such as the social media links) were taken from mini projects done through out the course. 
 
 ## Acknowledgements
-* I would also like to credit and thank my mentor Seun for all her help in guiding me through my firs milestone project.
+* I would also like to credit and thank my mentors Brian  Seun for all her help in guiding me through my firs milestone project.
