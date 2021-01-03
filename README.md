@@ -1,6 +1,6 @@
 # Actor Webpage
-I am designing this webpage as of my MS1 project for Code Institute's Dimploma in Software Development. This will also be my own personal Actor's Webpage that has been designed to showcase my work and keep
-people up to date with my career so far. I hope to use this webpgae to market and advance my career.
+I am designing this webpage as part of my MS1 project for Code Institute's Dimploma in Software Development. This will also be my own personal Actor's Webpage that has been designed to showcase my work and keep
+people up to date with my career so far. I hope to use this webpage to market and advance my career.
 
 # UX
 
@@ -8,7 +8,7 @@ people up to date with my career so far. I hope to use this webpgae to market an
 The users that will visit my webpage are going to consist of other actors and casting agents. Because of this I didn't over populate my webpage with content, I kept it simple and only provided the necessary information.
 
 
-When a casting agent visits a webpage they don't want to waist time so i aim to present them with an easy navigation system and provide them with all the neccessary information to get a good picture of who the actor is.
+When a casting agent visits a webpage they don't want to waist time so I aim to present them with an easy navigation system and coherently organised information.
 
 
 Each section of the webpage conatains content to inform any user of who the actor is and of their previous work. It also provides user's a way of getting in contact with the actor and his agnecy should they want to work with said actor.
@@ -36,7 +36,7 @@ As a user I would like:
   Balsamiq to crate some basic 
   wireframes(Link below)
   
-  [Wireframes](../wireframes.md)
+  [Wireframes](/workspace/Milestone-Project-1/wireframes.md)
 
 
 **Colours**
@@ -48,23 +48,24 @@ As a user I would like:
 **Typography**
 
 * I used the "Goldman" font for all my heading as I felt it really made the the text stand out.
-* I then used "Roboto-Condensed" for the rest of my text as it seemed to pair nicely with the Goldman.
+* I then used "Roboto-Condensed" for the rest of my text as it seemed to pair nicely with the Goldman and it came reccomended by [Google Fonts](https://fonts.google.com/).
 
 **Backgrounds**
 
 * The background for the header is a photo of the actor(me) and was chosen to instantly show off the actor in his working environment.
-* The rest of the page was give a navy blue colour (#243c56). This made the rest of the content stand out to the user.
+* The rest of the page was given a navy blue colour (#243c56). This made the rest of the content stand out to the user.
 
 # Features
 ## Exsisting Features
 * **Nav** - The webpage will have a responsive nav in the top right corner that will be linked to all the sections of the page. On small viewports the nav will change to burger icon conating the nav elements.
-* **Showreel** - An iFrame element was used to embed a video which showcases the actors work.
+* **Showreel** - An iFrame element was used to embed a video from [YouTube](https://www.youtube.com/embed/6bVErQjUwtA) which showcases the actors work(this showreel is to be updated soon).
 * **Gallery** - An interactive photo gallery in the form of a carousel was added to the webpage to conveniently display some shots of the actor at work.
 * **Links** - Buttons and links that lead users to the actors other profiles, webpages and social media are dispersed through out the page.
 * **Form** - A contact form to contact the actor directly through the webpage was added to the contact section.
 
 ## Features Still to Be Implemented
-* An external page is to be added that will contain a blog and videos of different scenes and monologues.
+* An external page is to be added that will contain a blog to keep users up to date on the actors career.
+* A section for the actor to upload new mnologues and scenes for users to view and comment on.
 
 # Technologies Used
 ## Languages
@@ -93,7 +94,7 @@ Post-deployment the webpage was tested across a number of devices to ensure it r
 
 **Bugs**
 
-Most bugs I encountered were solved through the use of Bootstrap or were simple mistakes that were easily fixd in my CSS.
+Most bugs I encountered were solved through the use of Bootstrap or were simple mistakes that were easily fixed in my CSS code.
 
 * Carousel 
 > I originally encountered an issue with carousel that I got from Bootstrap, this was mainly to do with it's positioning . This problem was fixed using the flex utility from Bootstrap.
@@ -103,10 +104,10 @@ Most bugs I encountered were solved through the use of Bootstrap or were simple 
 
 *  Nav 
 > I had to return to my nav as it seemed that it would move out of place when i viewed the webpage on a mobile device. Once again this was fixed using the flex utility from Bootstrap.
-(The nav toggler icon currently moves up and down when clicked on. I am still trying to correct this issue.)
+(The nav toggler icon currently moves up and down when clicked on. I left this asit seems to work as a feature of the application.)
 
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
->W3C 
+* [W3C Markup Validator](https://validator.w3.org/nu/#textarea)
+>W3C Markup Validator was used to check the HTML code.
 # Deployment
 The site was deployed to GitHub pages. See below for instructions.
 
@@ -125,4 +126,4 @@ The site was deployed to GitHub pages. See below for instructions.
 * Some ideas for the code (such as the social media links) were taken from mini projects done through out the course. 
 
 ## Acknowledgements
-* I would also like to credit and thank my mentors Brian  Seun for all her help in guiding me through my firs milestone project.
+* I would also like to credit and thank my mentors Brian Macharia and Oluwasuen Owonikoko for all her help in guiding me through my firs milestone project.

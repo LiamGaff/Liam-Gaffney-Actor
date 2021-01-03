@@ -154,8 +154,8 @@ iframe{
 .carousel-inner > .carusel-item > img{ 
     width: 50rem;
     height: 18.75rem; 
-    -o-object-fit: contain; 
-       object-fit: contain;
+    -o-object-fit: cover; 
+       object-fit: cover;
     overflow: hidden;
 }
 
