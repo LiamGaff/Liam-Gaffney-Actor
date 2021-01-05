@@ -1,4 +1,5 @@
 # Actor Webpage
+![](assets/images/readme.md_hero_img.png)
 I am designing this webpage as part of my MS1 project for Code Institute's Dimploma in Software Development. This will also be my own personal Actor's Webpage that has been designed to showcase my work and keep
 people up to date with my career so far. I hope to use this webpage to market and advance my career.
 
@@ -58,9 +59,14 @@ As a user I would like:
 # Features
 ## Exsisting Features
 * **Nav** - The webpage will have a responsive nav in the top right corner that will be linked to all the sections of the page. On small viewports the nav will change to burger icon conating the nav elements.
+![Nav on normal screen width](assets/images/features_nav_2.png)
+![Nav on small screen width](assets/images/features_nav_1.png)
 * **Showreel** - An iFrame element was used to embed a video from [YouTube](https://www.youtube.com/embed/6bVErQjUwtA) which showcases the actors work(this showreel is to be updated soon).
+
 * **Gallery** - An interactive photo gallery in the form of a carousel was added to the webpage to conveniently display some shots of the actor at work.
+![Gallery](assets/images/features_gallery.png)
 * **Links** - Buttons and links that lead users to the actors other profiles, webpages and social media are dispersed through out the page.
+
 * **Form** - A contact form to contact the actor directly through the webpage was added to the contact section.
 
 ## Features Still to Be Implemented
