@@ -11,7 +11,7 @@ The users that will visit my webpage are going to consist of other actors and ca
 When a casting agent visits a webpage they don't want to waist time so I aim to present them with an easy navigation system and coherently organised information.
 
 
-Each section of the webpage conatains content to inform any user of who the actor is and of their previous work. It also provides user's a way of getting in contact with the actor and his agnecy should they want to work with said actor.
+Each section of the webpage conatains content to inform any user of who the actor is and of their previous work. It also provides user's a way of getting in contact with the actor and his agnecy should they want to work with the client.
 Links to the actors other profiles(e.g spotlight, IMBD...) have also been added through out the webpage to validate the actors work experience.
 
 
@@ -108,6 +108,10 @@ Most bugs I encountered were solved through the use of Bootstrap or were simple 
 
 * [W3C Markup Validator](https://validator.w3.org/nu/#textarea)
 >W3C Markup Validator was used to check the HTML code.
+
+* Viewport Testing
+> The webpage was opened on a number of different screen sizes to ensure it worked on all viewports. The webpage did run into trouble when opened on viewports with a width smaller than 400px as all the content is pushed slightly to the left. This is an ongoing issue and is currently being worked on.
+
 # Deployment
 The site was deployed to GitHub pages. See below for instructions.
 
@@ -126,4 +130,4 @@ The site was deployed to GitHub pages. See below for instructions.
 * Some ideas for the code (such as the social media links) were taken from mini projects done through out the course. 
 
 ## Acknowledgements
-* I would also like to credit and thank my mentors Brian Macharia and Oluwasuen Owonikoko for all her help in guiding me through my firs milestone project.
+* I would also like to credit and thank my mentors Brian Macharia and Oluwasuen Owonikoko for all their help in guiding me through my firs milestone project.
