@@ -9,8 +9,12 @@ body{
     font-weight: 400;
     background-color: #243c56;
     max-width: 2000px;
-    
 }
+
+a{
+    color: #0080ff;
+}
+
 /*--------------------------------------- Background colours*/
 
 .bg-name-nav{
@@ -24,7 +28,7 @@ body{
 /*--------------------------------------- Header*/
 
 header{
-    background: url("../images/HERO_IMG.jpg") no-repeat center center;
+    background: url("../images/hero_img.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh;
     width: 100%;
@@ -40,23 +44,24 @@ header{
     padding-top:  9px;   
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: #0ddedee0;;
+.navbar-light .navbar-nav .nav-link{
+    color: #00e6e6;
     font-weight: 600;   
     text-align: right;
 }
 
 .navbar-light .navbar-toggler{
-    color: #0ddedee0;;
-    border-color: #0ddedee0;;
+    color: #00e6e6;
+    border-color: #00e6e6;
 }
+
 /*--------------------------------------- Text styles*/
 
 .heading {
     font-family: "Goldman", sans-serif;
     font-weight: 400;
     font-size: 2.13rem;
-    color: #0ddedee0;
+    color: #00e6e6;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
@@ -68,7 +73,7 @@ header{
 }
 
 .media-text{
-    font-size: 17px;
+    font-size: 1.06rem;
     width: 70%;
     text-align: center;
     padding-right: 15px;
@@ -76,14 +81,14 @@ header{
 }
 
 .footer-headings{
-    color: #0ddedee0;
+    color: #00e6e6;
     text-align: center;
 }
 
 .footer-text{
     font-size: 1.06rem;
     padding-right: 15px;
-    color: #FFFAF0;
+    color: #fffaf0;
     padding-left: 15px;
     text-align: center;
     margin-top: 20px;
@@ -96,9 +101,10 @@ header{
   .about-text{
     font-size: 1.06rem;
     padding-right: 15px;
-    color: #FFFAF0;
+    color: #fffaf0;
     padding-left: 15px;
 }
+
 /*--------------------------------------- Section spacing*/
 
 .content-showreel{
@@ -116,7 +122,7 @@ header{
     height: 100%;
     width: 100%;
     background-color: lightseagreen;
-    border-top: solid 1px #FFFAF0;
+    border-top: solid 1px #fffaf0;
 }
 
 /*--------------------------------------- Showreel*/
@@ -124,11 +130,10 @@ header{
 iframe{
     width: 50rem;
     height: 25rem;
+    border: none;
 }
 
 .showreel-video{
-    padding-left: 20px;
-    padding-right: 20px;
     margin-bottom: 20px;
 }
 
@@ -142,9 +147,7 @@ iframe{
     padding-left: 10px
 }
 
-
 /*--------------------------------------- Gallery*/
-
 
 .carousel-position{
     margin: auto;
@@ -162,12 +165,8 @@ iframe{
 /*--------------------------------------- Contact*/
 
 .footer-border{
-    border-right: solid 1px #0ddedee0;;
-     border-bottom: solid 1px #0ddedee0;;
-}
-
-a{
-    color: #007cfffc;
+    border-right: solid 1px #00e6e6;
+     border-bottom: solid 1px #00e6e6;
 }
 
 .button-img{
@@ -186,7 +185,7 @@ a{
 
 .form-text{
     display: inline-block;
-    color: #FFFAF0;
+    color: #fffaf0;
     margin-left: 15px;
     text-align: justify;
     margin-top: 15px;
@@ -197,15 +196,15 @@ a{
     width: 90%;
     padding: .375rem .75rem;
     margin-left: 15px;
-    border: solid 2px #0ddedee0;;
+    border: solid 2px #00e6e6;
     border-radius: 10px;
 }
 
 .contact-submit-input{
     margin: auto;
     display: block;
-    color: #FFFAF0;
-    background-color: #0ddedee0;
+    color: #fffaf0;
+    background-color: #00e6e6;
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
@@ -226,7 +225,7 @@ padding-top: 10px;
     border-radius: 36%;
     font-size: 15px;
     color: #ddd;
-    background-color: #357bc5fc;
+    background-color: #3366ff;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
     transition: all 0.35s ease-in-out;

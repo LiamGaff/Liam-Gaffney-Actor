@@ -1,15 +1,15 @@
 # Wire Frames
 
 ## Home
-![Home](assets/images/HOME.png)
+![Home](assets/images/home.png)
 
 ## Showreel
-![Showreel](/workspace/Liam-Gaffney-Actor/assets/images/SHOWREEL.png)
+![Showreel](/workspace/Liam-Gaffney-Actor/assets/images/showreel.png)
 
 ## About Me
-![About Me]assets/images/About_Me.png)
+![About Me]assets/images/about_me.png)
 ## Gallery
-![Gallery](assets/images/GALLERY.png)
+![Gallery](assets/images/gallery.png)
 
 ## Footer/Contact Info
-![Contact Info](assets/images/CONTACT.png)
+![Contact Info](assets/images/contact.png)

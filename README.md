@@ -87,6 +87,9 @@ As a user I would like:
 
 *  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 >- CSS code was checked using CSS W3C CSS Validator.
+
+* [Online Beautifier](https://beautifier.io/)
+>- Online Beautifier was used to beautify my HTML code.
 # Testing
 As the webpage was being built Chrome developer tools were used to ensure that the code was working smoothly. Each section was then tested agin every time a new feature was added.
 
@@ -110,7 +113,7 @@ Most bugs I encountered were solved through the use of Bootstrap or were simple 
 >W3C Markup Validator was used to check the HTML code.
 
 * Viewport Testing
-> The webpage was opened on a number of different screen sizes to ensure it worked on all viewports. The webpage did run into trouble when opened on viewports with a width smaller than 400px as all the content is pushed slightly to the left. This is an ongoing issue and is currently being worked on.
+> The webpage was opened on a number of different screen sizes to ensure it worked on all viewports. The webpage did run into trouble when opened on viewports with a width smaller than 400px as all the content is pushed slightly to the left. This was solved by removing the padding from from the video in the showreel section.
 
 # Deployment
 The site was deployed to GitHub pages. See below for instructions.
