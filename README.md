@@ -36,14 +36,14 @@ As a user I would like:
   Balsamiq to crate some basic 
   wireframes(Link below)
   
-  [Wireframes](/workspace/Milestone-Project-1/wireframes.md)
+  [Wireframes](wireframes.md)
 
 
 **Colours**
 
 * I used a turquoise (#56c1c1) colour for all my headings as i felt it matched nicely with my hero image.
 
-* The rest of the text was then either a simple shade of white or blue to blend nicely with the rest of the content and dark background.
+* The rest of the text was then either a simple shade of white or blue to blend nicely with the rest of the content and dark background.(I asked a number of people of all different ages if they could easily read the text with the chosen colours.)
 
 **Typography**
 
