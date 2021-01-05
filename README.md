@@ -59,12 +59,19 @@ As a user I would like:
 # Features
 ## Exsisting Features
 * **Nav** - The webpage will have a responsive nav in the top right corner that will be linked to all the sections of the page. On small viewports the nav will change to burger icon conating the nav elements.
-![Nav on normal screen width](assets/images/features_nav_2.png)
-![Nav on small screen width](assets/images/features_nav_1.png)
+
+<img src="assets/images/features_nav_2.png" width="250" height="250"/>
+
+Drop down navigation menue for small screen sizes.
+
+<img src="assets/images/features_nav_1.png" width="200" height="250"/>
+
 * **Showreel** - An iFrame element was used to embed a video from [YouTube](https://www.youtube.com/embed/6bVErQjUwtA) which showcases the actors work(this showreel is to be updated soon).
 
 * **Gallery** - An interactive photo gallery in the form of a carousel was added to the webpage to conveniently display some shots of the actor at work.
-![Gallery](assets/images/features_gallery.png)
+
+<img src="assets/images/features_gallery.png" width="250" height="300"/>
+
 * **Links** - Buttons and links that lead users to the actors other profiles, webpages and social media are dispersed through out the page.
 
 * **Form** - A contact form to contact the actor directly through the webpage was added to the contact section.
