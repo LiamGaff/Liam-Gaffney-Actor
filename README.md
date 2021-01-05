@@ -4,12 +4,13 @@ I am designing this webpage as part of my MS1 project for Code Institute's Dimpl
 people up to date with my career so far. I hope to use this webpage to market and advance my career.
 
 # UX
-
-## Users
 The users that will visit my webpage are going to consist of other actors and casting agents. Because of this I didn't over populate my webpage with content, I kept it simple and only provided the necessary information.
 
 
 When a casting agent visits a webpage they don't want to waist time so I aim to present them with an easy navigation system and coherently organised information.
+
+
+The heading of each section acts as a button that will link you to that individual section. This will assist with the users navigation and improves the overall flow of the webpage.
 
 
 Each section of the webpage conatains content to inform any user of who the actor is and of their previous work. It also provides user's a way of getting in contact with the actor and his agnecy should they want to work with the client.
